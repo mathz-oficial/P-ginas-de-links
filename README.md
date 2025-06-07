@@ -26,11 +26,3 @@ pagina-de-links/
 - Nome de usuário: **@mathz_oficial**
 - Descrição: Desenvolvedor, Criador de conteúdo, Músico, Desenhista e Cristão. João 3.16
 
-## 🎯 Objetivo
-Criar um hub de links pessoal para fácil compartilhamento e acesso às redes sociais e projetos.
-
-## 💡 Observações
-Você pode hospedar este projeto no GitHub Pages e usá-lo como seu próprio agregador de links!
-
-## 🖼️ Como alterar a foto?
-Substitua o arquivo `img/foto/perfil.png` por sua própria imagem de perfil.
